@@ -55,15 +55,6 @@ npm start
 Contributions to the project are welcome! If you find any issues or have ideas for enhancements, feel free to submit a pull request.
 
 
-### To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature/fix: git checkout -b feature-name
-3. Make your changes and commit them: git commit -m "Add feature"
-4. Push to your branch: git push origin feature-name
-5. Create a pull request in the original repository.
-
-
 ## License:
 
 This project is licensed under the MIT License.
