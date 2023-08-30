@@ -50,11 +50,6 @@ npm start
 - Body-parser middleware
 
 
-## Contributing
-
-Contributions to the project are welcome! If you find any issues or have ideas for enhancements, feel free to submit a pull request.
-
-
 ## License:
 
 This project is licensed under the MIT License.
